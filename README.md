@@ -1,5 +1,6 @@
 # Welcome to Remix!
 
+- [See the project live!](https://spotify-react-five.vercel.app)
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
