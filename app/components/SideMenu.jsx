@@ -1,6 +1,6 @@
 export default function SideMenu() {
     return (
-        <div className="w-1/6 h-full flex flex-col bg-black p-7">
+        <div className="w-1/5 h-screen flex flex-col bg-black p-7">
             <div className="flex mb-4">
                 <i class="fa-brands fa-spotify text-4xl mr-1"></i>
                 <h1 className="text-3xl">Spotify</h1>
